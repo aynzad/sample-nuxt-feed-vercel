@@ -17,4 +17,10 @@ $ yarn start
 $ yarn generate
 ```
 
+## Check Generated RSS feed
+open [http://localhost:3000/feed.xml](http://localhost:3000/feed.xml)
+
+
+___
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
